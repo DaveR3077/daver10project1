@@ -1,9 +1,9 @@
-available: false
+available: true
 id: 3
 mainset:
 - names: []
 name: 'New Townname #3'
-source: ''
+source: null
 subsets:
 - name: DaveRgrad
   parts:
